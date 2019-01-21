@@ -7,11 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="miniprogram" />
+        <module name="miniprogram-api" />
+        <module name="miniprogram-backstage" />
+        <module name="miniprogram-common" />
         <module name="miniprogram-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="miniprogram" target="1.8" />
+      <module name="miniprogram-api" target="1.8" />
+      <module name="miniprogram-backstage" target="1.8" />
+      <module name="miniprogram-common" target="1.8" />
       <module name="miniprogram-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>

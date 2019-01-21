@@ -5,6 +5,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/miniprogram-web/pom.xml" />
+        <option value="$PROJECT_DIR$/miniprogram-backstage/pom.xml" />
+        <option value="$PROJECT_DIR$/miniprogram-api/pom.xml" />
+        <option value="$PROJECT_DIR$/miniprogram-common/pom.xml" />
       </list>
     </option>
   </component>

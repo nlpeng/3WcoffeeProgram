@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/miniprogram.iml" filepath="$PROJECT_DIR$/miniprogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniprogram-api/miniprogram-api.iml" filepath="$PROJECT_DIR$/miniprogram-api/miniprogram-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniprogram-backstage/miniprogram-backstage.iml" filepath="$PROJECT_DIR$/miniprogram-backstage/miniprogram-backstage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniprogram-common/miniprogram-common.iml" filepath="$PROJECT_DIR$/miniprogram-common/miniprogram-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/miniprogram-web/miniprogram-web.iml" filepath="$PROJECT_DIR$/miniprogram-web/miniprogram-web.iml" />
     </modules>
   </component>
